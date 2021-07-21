@@ -1,0 +1,8 @@
+<template name="fref" value="import 'package:freezed_annotation/freezed_annotation.dart';&#10;part '$file_name$.freezed.dart';&#10;&#10;@freezed &#10;class $ClassName$ with _$$$ClassName$ {   &#10;    factory $ClassName$($params$) = _$ClassName$; &#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="file_name" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="ClassName" expression="capitalize(camelCase(file_name))" defaultValue="" alwaysStopAt="false" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+        <option name="DART_TOPLEVEL" value="true" />
+    </context>
+</template>

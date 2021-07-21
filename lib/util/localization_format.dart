@@ -1,0 +1,1 @@
+enum LocalizationFormat { plural, singular }

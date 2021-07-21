@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947808650440",
+    "project_id": "sapiency-d22c0",
+    "storage_bucket": "sapiency-d22c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947808650440:android:ac9280ff763e733a6d11fd",
+        "android_client_info": {
+          "package_name": "com.io.sapiency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947808650440-4cveoa36ds3gd9unijbdtv37d7ppnmpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.io.sapiency",
+            "certificate_hash": "eb38ef72ae6974be18991ae11ab638009a6cd023"
+          }
+        },
+        {
+          "client_id": "947808650440-oqg6gquq3d1si3psv86a8pge7nnlmn25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMIHT9WmI2Iq3cYAIgxcpC85xrDBkB7AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947808650440-oqg6gquq3d1si3psv86a8pge7nnlmn25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

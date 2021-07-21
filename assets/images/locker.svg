@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="44" viewBox="0 0 38 44">
+  <g id="privacy" transform="translate(0 0)">
+    <path id="Shape" d="M0,25V5a1,1,0,0,1,.783-.977l18-4a1.007,1.007,0,0,1,.434,0l18,4A1,1,0,0,1,38,5V25A19,19,0,0,1,0,25Z" transform="translate(0 0)" fill="#ff9464"/>
+    <path id="Path" d="M3,0A3,3,0,0,0,0,3V8H6V3A3,3,0,0,0,3,0Z" transform="translate(16 12)" fill="#ff9464"/>
+    <circle id="Oval" cx="2" cy="2" r="2" transform="translate(17 24)" fill="#ff9464"/>
+  </g>
+</svg>

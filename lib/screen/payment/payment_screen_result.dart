@@ -1,0 +1,3 @@
+enum PaymentScreenResult {
+  success, error
+}

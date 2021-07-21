@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812"
+     viewBox="0 0 375 812">
+    <defs>
+        <linearGradient id="linear-gradient" x1="0.573" y1="0.74" x2="0" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff9464" stop-opacity="0"/>
+            <stop offset="1" stop-color="#ff9464" stop-opacity="0.188"/>
+        </linearGradient>
+        <clipPath id="clip-Splash_screen">
+            <rect width="375" height="812"/>
+        </clipPath>
+    </defs>
+    <g id="Splash_screen" data-name="Splash screen" clip-path="url(#clip-Splash_screen)">
+        <rect width="375" height="812" fill="#fff"/>
+        <g id="Background">
+            <rect id="BG" width="375" height="812" fill="#163a45"/>
+            <rect id="Gradiant" width="375" height="590" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Shapes" transform="translate(-222 590)">
+            <circle id="Oval" cx="140" cy="140" r="140" transform="translate(317 82)" fill="#ff7261"/>
+            <g id="Oval_Group" data-name="Oval Group">
+                <circle id="Oval-2" data-name="Oval" cx="56" cy="56" r="56" transform="translate(166 166)" fill="none"
+                        stroke="#ffc8b0" stroke-miterlimit="10" stroke-width="4"/>
+                <circle id="Oval_Copy_8" data-name="Oval Copy 8" cx="28" cy="28" r="28" transform="translate(194 194)"
+                        fill="none" stroke="#ffc8b0" stroke-miterlimit="10" stroke-width="4"/>
+                <circle id="Oval_Copy" data-name="Oval Copy" cx="83" cy="83" r="83" transform="translate(140 140)"
+                        fill="none" stroke="#ffc8b0" stroke-miterlimit="10" stroke-width="4"/>
+                <circle id="Oval_Copy_2" data-name="Oval Copy 2" cx="111" cy="111" r="111"
+                        transform="translate(112 112)" fill="none" stroke="#ffc8b0" stroke-miterlimit="10"
+                        stroke-width="4"/>
+                <circle id="Oval_Copy_3" data-name="Oval Copy 3" cx="139" cy="139" r="139" transform="translate(84 84)"
+                        fill="none" stroke="#ffc8b0" stroke-miterlimit="10" stroke-width="4"/>
+                <circle id="Oval_Copy_4" data-name="Oval Copy 4" cx="167" cy="167" r="167" transform="translate(56 56)"
+                        fill="none" stroke="#ffc8b0" stroke-miterlimit="10" stroke-width="4"/>
+                <circle id="Oval_Copy_5" data-name="Oval Copy 5" cx="194" cy="194" r="194" transform="translate(28 28)"
+                        fill="none" stroke="#ffc8b0" stroke-miterlimit="10" stroke-width="4"/>
+                <circle id="Oval_Copy_6" data-name="Oval Copy 6" cx="222" cy="222" r="222" fill="none" stroke="#ffc8b0"
+                        stroke-miterlimit="10" stroke-width="4"/>
+            </g>
+            <circle id="Oval_2" data-name="Oval 2" cx="31" cy="31" r="31" transform="translate(510 82)" fill="#ffc8b0"/>
+            <circle id="Oval_3" data-name="Oval 3" cx="12" cy="12" r="12" transform="translate(302 40)" fill="#ff9464"/>
+        </g>
+        <ellipse id="Oval_Copy_8-2" data-name="Oval Copy 8" cx="21.5" cy="21" rx="21.5" ry="21"
+                 transform="translate(517 270)" fill="none" stroke="#ff9464" stroke-miterlimit="10" stroke-width="16"/>
+    </g>
+</svg>
